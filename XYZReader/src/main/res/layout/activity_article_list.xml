@@ -35,7 +35,8 @@
                 android:src="@drawable/logo"
                 android:contentDescription="@string/app_name"
                 android:layout_gravity="bottom"
-                android:gravity="center" />
+                android:gravity="center"
+                android:layout_marginLeft="24dp"/>
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
